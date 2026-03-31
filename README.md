@@ -1,11 +1,11 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR6cTJzcjN3dTBtNWw0d2x3NjN6NXN2cDJhMHcwOTF4ZzNwdnBkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Banner"/>
   
-  # 👋 Xin chào, mình là Long!
+  # 👋 Hi there, I'm Long!
   
-  ### 👨‍💻 Lập trình viên tại Đà Nẵng, Việt Nam 🌊🏖️
+  ### 👨‍💻 Software Developer based in Da Nang, Vietnam 🌊🏖️
   
-  *Biến cà phê thành code và biến bugs thành... tính năng!* 🐞✨
+  *Turning coffee into code and bugs into... features!* 🐞✨
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
@@ -13,22 +13,22 @@
 
 ---
 
-## 🙋‍♂️ Về mình (About Me)
+## 🙋‍♂️ About Me
 
-Chào mừng bạn đến với góc nhỏ của mình trên GitHub! Mình là một developer đam mê **Mobile Development**, đặc biệt "u mê" hệ sinh thái của Android. Khi không phải vật lộn với NPE (NullPointerException), mình thường dành thời gian khám phá các công nghệ xịn xò khác.
+Welcome to my little corner on GitHub! I'm a developer deeply passionate about **Mobile Development**, particularly in love with the Android ecosystem. When I'm not wrestling with NPEs (NullPointerExceptions), I spend my time exploring other cool technologies.
 
-🔭 **Đang tập trung vào:**  
-- Xây dựng kiến trúc ứng dụng Android với **Kotlin** và **Jetpack Compose**.
-- Tích hợp các mô hình **AI/ML** vào ứng dụng (như vọc vạch Local LLMs, Computer Vision).
+🔭 **Currently focusing on:**  
+- Building robust Android App Architectures using **Kotlin** and **Jetpack Compose**.
+- Integrating **AI/ML** models into applications (tinkering with Local LLMs, Computer Vision).
 
-🌱 **Sở thích & Side-projects:**
-- 🎨 Đam mê làm việc với đồ họa 3D trên Web bằng **Three.js**, **WebGL**, và **Cesium**.
-- 🎮 Lập trình game đa nền tảng vui vẻ với **Unity**.
-- 🕷️ Viết các công cụ bằng **Python** để tự động hóa công việc lười làm hoặc cào dữ liệu (ví dụ: data bóng đá cho app thể thao ⚽).
+🌱 **Hobbies & Side-projects:**
+- 🎨 Passionate about crafting 3D web graphics with **Three.js**, **WebGL**, and **Cesium**.
+- 🎮 Building fun cross-platform games using **Unity**.
+- 🕷️ Writing **Python** scripts to automate boring tasks or scrape data (e.g., football data for sports apps ⚽).
 
 ---
 
-## 🛠 Kỹ năng & Công nghệ (Tech Stack)
+## 🛠 Tech Stack
 
 ### 📱 Mobile
 <p>
@@ -62,7 +62,7 @@ Chào mừng bạn đến với góc nhỏ của mình trên GitHub! Mình là m
 
 ---
 
-## 📊 Thống kê GitHub (GitHub Stats)
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=longlv296&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
